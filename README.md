@@ -1,7 +1,7 @@
 
 <h3 align="center">Hi there 👋, I'm Marc</h3>
 
-Currently working at Cyber Defence Campus for armasuisse in Zürich. Also studying a Cybersecurity master at the Universitat Oberta de Catalunya. My fields of interests are **cibersecurity** and **data science**. I like to find problems and create solutions, always willing to try and learn new technologies.
+Currently working at Cyber Defence Campus for armasuisse in Zürich. Also studying a Cybersecurity master at the Universitat Oberta de Catalunya. My fields of interests are **cybersecurity** and **data science**. I like to find problems and create solutions, always willing to try and learn new technologies.
 
 <h2>💬 Connect with me</h2>
 
