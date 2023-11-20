@@ -5,7 +5,7 @@ Currently working at Cyber Defence Campus for armasuisse in Zürich. Also studyi
 
 <h2>💬 Connect with me</h2>
 
-<a href="https://www.linkedin.com/in/marcxapelli/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Marc Xapelli Jaime | LinkedIn" width="150px"/></a>
+<a href="https://www.linkedin.com/in/marcxapelli/"><img align="left" src="https://media.licdn.com/dms/image/D4D03AQHnFusqVjC8KQ/profile-displayphoto-shrink_400_400/0/1665779752673?e=1706140800&v=beta&t=z0_3j5BMRis1jLZuMw0opbhXFrtFSh2M_F5pKfmjxPw" alt="Marc Xapelli Jaime | LinkedIn" width="150px"/></a>
 
 
 
